@@ -1,0 +1,4 @@
+QTYiRH8Ls1Ke8seJ
+
+
+mongodb+srv://bibliotecaUsuarios:QTYiRH8Ls1Ke8seJ@cluster0.v4kesoc.mongodb.net/?retryWrites=true&w=majority
